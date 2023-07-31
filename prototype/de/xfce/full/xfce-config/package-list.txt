@@ -1,0 +1,228 @@
+
+
+##
+## # Xfce
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Xfce
+##
+
+xfce4
+xfce4-goodies
+
+
+
+
+##
+## ## Package / Tool / Develop
+##
+
+build-essential
+python3-github
+
+
+
+
+##
+## ## Package / Tool / Shell
+##
+
+bash-completion
+
+
+
+
+##
+## ## Package / Tool / Download
+##
+
+
+wget
+curl
+git
+yt-dlp
+
+
+##
+## ## Package / Tool / Dock
+##
+
+plank
+
+
+
+
+##
+## ## Package / Tool / Launcher
+##
+
+rofi
+
+
+
+
+##
+## ## Package / Tool / Terminal
+##
+
+sakura
+xfce4-terminal
+
+
+
+
+##
+## ## Package / Tool / File Manager
+##
+
+pcmanfm-qt
+pcmanfm
+
+
+
+
+##
+## ## Package / Tool / Archiver
+##
+
+engrampa
+lxqt-archiver
+
+p7zip-full
+unrar-free
+
+
+
+
+##
+## ## Package / Tool / Text Editor
+##
+
+mousepad
+vim
+neovim
+micro
+nano
+
+
+
+
+##
+## ## Package / Tool / Image Viewer
+##
+
+viewnior
+
+
+
+
+##
+## ## Package / Tool / Video Player
+##
+
+mpv
+smplayer
+vlc
+
+
+
+
+##
+## ## Package / Tool / Audio Player
+##
+
+audacious
+
+
+
+
+##
+## ## Package / Tool / Media
+##
+
+mate-media
+
+
+
+
+##
+## ## Package / Env / Qt
+##
+
+qt5-style-plugins
+qt5-gtk2-platformtheme
+qt5-gtk-platformtheme
+qt6-gtk-platformtheme
+
+##
+## apt-cache search svg | grep qt
+##
+
+libqt5svg5
+libqt6svg6
+
+qt5-style-kvantum
+qt5ct
+
+
+
+
+##
+## ## Package / Input Method / Fcitx5
+##
+
+fcitx5
+fcitx5-chewing
+fcitx5-config-qt
+
+fcitx5-frontend-gtk2
+fcitx5-frontend-gtk3
+fcitx5-frontend-gtk4
+fcitx5-frontend-qt5
+
+fcitx5-chinese-addons
+fcitx5-table
+fcitx5-m17n
+
+
+##
+## ## Package / Theme
+##
+
+gtk2-engines-murrine
+
+
+
+
+##
+## ## Package / Theme / breeze
+##
+
+breeze-gtk-theme
+breeze-icon-theme
+breeze-cursor-theme
+xfwm4-theme-breeze
+
+
+
+
+##
+## ## Package / Theme / numix
+##
+
+numix-gtk-theme
+numix-icon-theme
+numix-icon-theme-circle
+
+
+
+
+##
+## ## Package / Theme / papirus
+##
+
+papirus-icon-theme
