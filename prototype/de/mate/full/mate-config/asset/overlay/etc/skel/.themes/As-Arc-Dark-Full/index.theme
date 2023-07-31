@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=As-Arc-Dark-Full
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Arc-Dark
+MetacityTheme=Arc-Dark
+IconTheme=Papirus-Dark
+GtkColorScheme=menu_bg: #383c4a
+CursorTheme=breeze_cursors
+CursorSize=24
+NotificationTheme=slider
+BackgroundImage=/usr/share/backgrounds/default.jpg

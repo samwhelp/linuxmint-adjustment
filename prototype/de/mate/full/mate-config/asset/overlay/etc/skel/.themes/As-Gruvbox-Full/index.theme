@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=As-Gruvbox
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Gruvbox
+MetacityTheme=Gruvbox
+IconTheme=Gruvbox-Dark
+GtkColorScheme=menu_bg: #383c4a
+CursorTheme=breeze_cursors
+CursorSize=24
+NotificationTheme=slider
+BackgroundImage=/usr/share/backgrounds/default.jpg
