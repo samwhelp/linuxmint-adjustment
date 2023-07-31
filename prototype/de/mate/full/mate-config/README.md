@@ -2,13 +2,6 @@
 # Mate
 
 
-## Config File Path
-
-| Config File Path |
-| --- |
-| [~/.config/xfce4](./asset/overlay/etc/skel/.config/xfce4) |
-
-
 ## Ubuntu Package
 
 | Ubuntu Package |

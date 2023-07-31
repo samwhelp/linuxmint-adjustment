@@ -4,25 +4,25 @@ set -e
 
 
 ################################################################################
-### Head: xfce
+### Head: mate
 ##
 
-xfce_config_install () {
+mate_config_install () {
 
 	echo
 	echo
 	echo
 	echo
 	echo "##"
-	echo "## Config: xfce"
+	echo "## Config: mate"
 	echo "##"
 	echo
 
 	sys_xfconfd_stop
 
-	xfce_config_install_overlay_home
+	mate_config_install_overlay_home
 
-	xfce_config_install_overlay_root
+	mate_config_install_overlay_root
 
 	dconf_config_install
 
@@ -33,7 +33,7 @@ xfce_config_install () {
 
 }
 
-xfce_config_install_overlay_home () {
+mate_config_install_overlay_home () {
 
 
 	echo
@@ -50,7 +50,7 @@ xfce_config_install_overlay_home () {
 }
 
 
-xfce_config_install_overlay_root () {
+mate_config_install_overlay_root () {
 
 
 	echo
@@ -62,7 +62,7 @@ xfce_config_install_overlay_root () {
 
 
 ##
-### Tail: xfce
+### Tail: mate
 ################################################################################
 
 
@@ -203,7 +203,7 @@ gsettings_config_install_glib_compile_schemas () {
 
 main_config_install () {
 
-	xfce_config_install
+	mate_config_install
 
 }
 

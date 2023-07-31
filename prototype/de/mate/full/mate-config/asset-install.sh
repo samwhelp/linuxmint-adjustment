@@ -4,17 +4,17 @@ set -e
 
 
 ################################################################################
-### Head: xfce
+### Head: mate
 ##
 
-xfce_asset_install () {
+mate_asset_install () {
 
 	echo
 	echo
 	echo
 	echo
 	echo "##"
-	echo "## Asset: xfce"
+	echo "## Asset: mate"
 	echo "##"
 	echo
 
@@ -28,7 +28,7 @@ xfce_asset_install () {
 
 
 ##
-### Tail: xfce
+### Tail: mate
 ################################################################################
 
 
@@ -161,7 +161,7 @@ theme_xfwm_rgaps_blend_nobuttons_asset_install () {
 
 main_asset_install () {
 
-	xfce_asset_install
+	mate_asset_install
 
 }
 
