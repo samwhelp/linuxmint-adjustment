@@ -20,7 +20,12 @@
 ## > for gtk-4
 ##
 
-export GTK_THEME=Arc-Dark
+
+##
+## Notice: Not Use This
+##
+
+#export GTK_THEME=Arc-Dark
 #export GTK_THEME=Arc-Dark:dark
 #export GTK_THEME=Arc:dark
 
