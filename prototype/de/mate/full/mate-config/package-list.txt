@@ -1,8 +1,17 @@
 
 
 ##
-## # Favorite Packages
+## # Mate
 ##
+
+
+
+
+##
+## ## Package / Desktop Environment / Mate
+##
+
+mate-desktop
 
 
 
@@ -35,8 +44,6 @@ wget
 curl
 git
 yt-dlp
-
-
 
 
 ##
@@ -100,7 +107,6 @@ neovim
 micro
 nano
 sublime-text
-
 
 
 
@@ -180,8 +186,6 @@ fcitx5-frontend-qt5
 fcitx5-chinese-addons
 fcitx5-table
 fcitx5-m17n
-
-
 
 
 ##

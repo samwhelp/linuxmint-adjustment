@@ -1,0 +1,12 @@
+
+
+[org.mate.background]
+picture-filename='/usr/share/backgrounds/default.jpg'
+picture-options='zoom'
+color-shading-type='vertical-gradient'
+primary-color='rgb(94,92,100)'
+secondary-color='rgb(0,0,0)'
+
+[org.mate.screensaver]
+picture-filename='/usr/share/backgrounds/default.jpg'
+

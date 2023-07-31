@@ -1,0 +1,25 @@
+
+
+[org.mate.panel]
+default-layout='brisk-menu-stand-alone-top'
+#default-layout='stand-alone-top'
+
+
+[com.solus-project.brisk-menu] 
+hot-key=''
+#hot-key='Super_L'
+
+
+
+
+[org.mate.session]
+auto-save-session=false
+required-components-list=['windowmanager', 'panel', 'filemanager', 'dock']
+
+
+[org.mate.session.required-components]
+windowmanager='marco'
+panel='mate-panel'
+filemanager='caja'
+dock='plank'
+

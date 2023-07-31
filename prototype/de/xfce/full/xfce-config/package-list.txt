@@ -107,6 +107,7 @@ vim
 neovim
 micro
 nano
+sublime-text
 
 
 
