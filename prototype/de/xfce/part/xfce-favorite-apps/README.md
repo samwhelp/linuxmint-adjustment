@@ -8,12 +8,12 @@
 | [~/.config/xfce4/helpers.rc](./asset/overlay/etc/skel/.config/xfce4/helpers.rc) |
 
 
-## Debian Package
+## Ubuntu Package
 
-| Debian Package |
+| Ubuntu Package |
 | --- |
-| [build-essential](https://packages.debian.org/sid/build-essential) |
-| [bash-completion](https://packages.debian.org/sid/bash-completion) |
+| [build-essential](https://packages.ubuntu.com/jammy/build-essential) |
+| [bash-completion](https://packages.ubuntu.com/jammy/bash-completion) |
 
 
 

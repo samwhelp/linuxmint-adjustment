@@ -9,12 +9,14 @@
 | [~/.config/xfce4](./asset/overlay/etc/skel/.config/xfce4) |
 
 
-## Debian Package
+## Ubuntu Package
 
-| Debian Package |
+| Ubuntu Package |
 | --- |
-| [xfce4](https://packages.debian.org/sid/xfce4) |
-| [xfce4-goodies](https://packages.debian.org/sid/xfce4-goodies) |
+| [xfce4](https://packages.ubuntu.com/jammy/xfce4) |
+| [xfce4-goodies](https://packages.ubuntu.com/jammy/xfce4-goodies) |
+
+
 
 
 ## Howto

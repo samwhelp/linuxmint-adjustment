@@ -9,16 +9,18 @@
 | [~/.config/autostart/plank-on-xfce.desktop](config/autostart/plank-on-xfce.desktop]) |
 
 
-## Debian Package
+## Ubuntu Package
 
-| Debian Package |
+| Ubuntu Package |
 | --- |
-| [plank](https://packages.debian.org/sid/plank) |
+| [plank](https://packages.ubuntu.com/jammy/plank) |
 
 
-## Debian Manpage
+## Ubuntu Manpage
 
-* man [plank](https://manpages.debian.org/unstable/plank/plank.1.en.html)
+* [man plank](https://manpages.ubuntu.com/manpages/jammy/en/man1/plank.1.html)
+
+
 
 
 ## Howto
