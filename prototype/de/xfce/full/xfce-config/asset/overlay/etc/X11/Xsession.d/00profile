@@ -36,7 +36,7 @@
 [ -f /etc/xprofile ] && . /etc/xprofile
 
 
-## 99xprofile
+## 98xprofile
 #[ -f ~/.xprofile ] && . ~/.xprofile
 
 
