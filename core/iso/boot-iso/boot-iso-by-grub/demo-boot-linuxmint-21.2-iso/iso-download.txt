@@ -1,0 +1,5 @@
+http://free.nchc.org.tw/linuxmint/isos/stable/21.2/sha256sum.txt
+http://free.nchc.org.tw/linuxmint/isos/stable/21.2/sha256sum.txt.gpg
+http://free.nchc.org.tw/linuxmint/isos/stable/21.2/linuxmint-21.2-cinnamon-64bit.iso
+http://free.nchc.org.tw/linuxmint/isos/stable/21.2/linuxmint-21.2-mate-64bit.iso
+http://free.nchc.org.tw/linuxmint/isos/stable/21.2/linuxmint-21.2-xfce-64bit.iso
