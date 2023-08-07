@@ -9,11 +9,28 @@
 
 
 
-# ~/.profile: executed by the command interpreter for login shells.
-# This file is not read by bash(1), if ~/.bash_profile or ~/.bash_login
-# exists.
-# see /usr/share/doc/bash/examples/startup-files for examples.
-# the files are located in the bash-doc package.
+################################################################################
+### Head: note
+##
+
+##
+## ~/.profile: executed by the command interpreter for login shells.
+## This file is not read by bash(1), if ~/.bash_profile or ~/.bash_login
+## exists.
+## see /usr/share/doc/bash/examples/startup-files for examples.
+## the files are located in the bash-doc package.
+##
+
+##
+### Tail: note
+################################################################################
+
+
+
+
+################################################################################
+### Head: debian profile
+##
 
 # the default umask is set in /etc/profile; for setting the umask
 # for ssh logins, install and configure the libpam-umask package.
@@ -38,6 +55,11 @@ fi
 #fi
 
 
+##
+### Tail: debian profile
+################################################################################
+
+
 
 
 ################################################################################
@@ -54,21 +76,4 @@ fi
 
 ##
 ### Tail: Path
-################################################################################
-
-
-
-
-################################################################################
-### Head: Style
-##
-
-##
-## Style
-##
-
-#[ -f ~/.style ] && . ~/.style
-
-##
-### Tail: Style
 ################################################################################
