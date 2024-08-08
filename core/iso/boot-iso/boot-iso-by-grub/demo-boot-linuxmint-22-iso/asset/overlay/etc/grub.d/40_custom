@@ -1,0 +1,59 @@
+#!/bin/sh
+exec tail -n +3 $0
+# This file provides an easy way to add custom menu entries.  Simply type the
+# menu entries you want to add after this comment.  Be careful not to change
+# the 'exec tail' line above.
+
+
+
+
+menuentry "Linux Mint 22 Wilma / Cinnamon" --class LinuxMint {
+	set gfxpayload=keep
+	set iso_file="/opt/iso/linuxmint/22/linuxmint-22-cinnamon-64bit.iso"
+	search --set=iso_partition --no-floppy --file $iso_file
+	probe --set=iso_partition_uuid --fs-uuid $iso_partition
+	set img_dev="/dev/disk/by-uuid/$iso_partition_uuid"
+	loopback loop ($iso_partition)$iso_file
+	set boot_option=""
+	#set boot_option="locale=zh_TW"
+	#set boot_option="quiet splash"
+	#set boot_option="file=/cdrom/preseed/linuxmint.seed ---"
+	linux (loop)/casper/vmlinuz iso-scan/filename=$iso_file boot=casper $boot_option
+	initrd (loop)/casper/initrd.lz
+}
+
+
+
+
+menuentry "Linux Mint 22 Wilma / Mate" --class LinuxMint {
+	set gfxpayload=keep
+	set iso_file="/opt/iso/linuxmint/22/linuxmint-22-mate-64bit.iso"
+	search --set=iso_partition --no-floppy --file $iso_file
+	probe --set=iso_partition_uuid --fs-uuid $iso_partition
+	set img_dev="/dev/disk/by-uuid/$iso_partition_uuid"
+	loopback loop ($iso_partition)$iso_file
+	set boot_option=""
+	#set boot_option="locale=zh_TW"
+	#set boot_option="quiet splash"
+	#set boot_option="file=/cdrom/preseed/linuxmint.seed ---"
+	linux (loop)/casper/vmlinuz iso-scan/filename=$iso_file boot=casper $boot_option
+	initrd (loop)/casper/initrd.lz
+}
+
+
+
+
+menuentry "Linux Mint 22 Wilma / Xfce" --class LinuxMint {
+	set gfxpayload=keep
+	set iso_file="/opt/iso/linuxmint/22/linuxmint-22-xfce-64bit.iso"
+	search --set=iso_partition --no-floppy --file $iso_file
+	probe --set=iso_partition_uuid --fs-uuid $iso_partition
+	set img_dev="/dev/disk/by-uuid/$iso_partition_uuid"
+	loopback loop ($iso_partition)$iso_file
+	set boot_option=""
+	#set boot_option="locale=zh_TW"
+	#set boot_option="quiet splash"
+	#set boot_option="file=/cdrom/preseed/linuxmint.seed ---"
+	linux (loop)/casper/vmlinuz iso-scan/filename=$iso_file boot=casper $boot_option
+	initrd (loop)/casper/initrd.lz
+}
