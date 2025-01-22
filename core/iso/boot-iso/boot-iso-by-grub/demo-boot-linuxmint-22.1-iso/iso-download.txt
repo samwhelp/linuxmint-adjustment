@@ -1,0 +1,5 @@
+https://mirrors.kernel.org/linuxmint/stable/22.1/sha256sum.txt
+https://mirrors.kernel.org/linuxmint/stable/22.1/sha256sum.txt.gpg
+https://mirrors.kernel.org/linuxmint/stable/22.1/linuxmint-22.1-cinnamon-64bit.iso
+https://mirrors.kernel.org/linuxmint/stable/22.1/linuxmint-22.1-mate-64bit.iso
+https://mirrors.kernel.org/linuxmint/stable/22.1/linuxmint-22.1-xfce-64bit.iso
