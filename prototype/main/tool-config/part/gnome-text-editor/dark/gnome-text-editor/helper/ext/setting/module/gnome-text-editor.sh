@@ -250,18 +250,22 @@ gnome_text_editor_settings_set_all () {
 
 
 	util_error_echo
-	util_error_echo "gsettings set org.gnome.TextEditor style-scheme 'solarized-light'"
-	gsettings set org.gnome.TextEditor style-scheme 'solarized-light'
+	util_error_echo "gsettings set org.gnome.TextEditor style-scheme 'oblivion'"
+	gsettings set org.gnome.TextEditor style-scheme 'oblivion'
+
+
+	#util_error_echo
+	#util_error_echo "gsettings set org.gnome.TextEditor style-variant 'follow'"
+	#gsettings set org.gnome.TextEditor style-variant 'follow'
+
+	util_error_echo
+	util_error_echo "gsettings set org.gnome.TextEditor style-variant 'dark'"
+	gsettings set org.gnome.TextEditor style-variant 'dark'
 
 
 	util_error_echo
-	util_error_echo "gsettings set org.gnome.TextEditor style-variant 'follow'"
-	gsettings set org.gnome.TextEditor style-variant 'follow'
-
-
-	util_error_echo
-	util_error_echo "gsettings set org.gnome.TextEditor tab-width 8"
-	gsettings set org.gnome.TextEditor tab-width 8
+	util_error_echo "gsettings set org.gnome.TextEditor tab-width 4"
+	gsettings set org.gnome.TextEditor tab-width 4
 
 
 	util_error_echo
