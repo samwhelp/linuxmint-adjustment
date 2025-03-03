@@ -246,6 +246,10 @@ tilix_config_for_profile () {
 
 
 	util_error_echo
+	util_error_echo "gsettings set \"${path}\" use-system-font false"
+	gsettings set "${path}" use-system-font false
+
+	util_error_echo
 	util_error_echo "gsettings set \"${path}\" font 'Monospace 14'"
 	gsettings set "${path}" font 'Monospace 14'
 
