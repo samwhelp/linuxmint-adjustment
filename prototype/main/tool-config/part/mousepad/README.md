@@ -12,7 +12,7 @@
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [mousepad](https://packages.ubuntu.com/noble/mousepad) |
 
 

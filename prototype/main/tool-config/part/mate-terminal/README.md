@@ -12,8 +12,10 @@
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [mate-terminal](https://packages.ubuntu.com/noble/mate-terminal) |
+
+
 
 
 ## Usage

@@ -15,7 +15,7 @@
 ### Normal
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/gwenviewrc](./asset/overlay/etc/skel/.config/gwenviewrc) |
 
 
@@ -31,7 +31,7 @@
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [gwenview](https://packages.ubuntu.com/noble/gwenview) |
 
 

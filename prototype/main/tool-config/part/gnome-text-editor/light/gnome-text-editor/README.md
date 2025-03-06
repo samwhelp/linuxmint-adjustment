@@ -12,7 +12,7 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [/usr/share/glib-2.0/schemas/50_gnome-text-editor.gschema.override](./asset/overlay/usr/share/glib-2.0/schemas/50_gnome-text-editor.gschema.override) |
 
 
@@ -21,7 +21,7 @@
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [gnome-text-editor](https://packages.ubuntu.com/noble/gnome-text-editor) |
 
 

@@ -12,14 +12,16 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.vim/vimrc](./asset/overlay/etc/skel/.vim/vimrc) |
+
+
 
 
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [vim](https://packages.ubuntu.com/noble/vim) |
 
 

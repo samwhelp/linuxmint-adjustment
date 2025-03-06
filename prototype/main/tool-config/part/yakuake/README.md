@@ -15,7 +15,7 @@
 ### Normal
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/yakuakerc](./asset/overlay/etc/skel/.config/yakuakerc) |
 
 
@@ -24,7 +24,7 @@
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [yakuake](https://packages.ubuntu.com/noble/yakuake) |
 
 

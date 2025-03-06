@@ -12,7 +12,7 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/sublime-text/Packages/User/Preferences.sublime-settings](./asset/overlay/etc/skel/.config/sublime-text/Packages/User/Preferences.sublime-settings) |
 
 

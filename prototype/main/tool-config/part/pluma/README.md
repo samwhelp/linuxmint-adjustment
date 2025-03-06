@@ -12,7 +12,7 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [/usr/share/glib-2.0/schemas/50_pluma.gschema.override](./asset/overlay/usr/share/glib-2.0/schemas/50_pluma.gschema.override) |
 | [~/.config/pluma/tools/open-terminal-here](./asset/overlay/etc/skel/.config/pluma/tools/open-terminal-here) |
 
@@ -22,7 +22,7 @@
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [pluma](https://packages.ubuntu.com/noble/pluma) |
 
 

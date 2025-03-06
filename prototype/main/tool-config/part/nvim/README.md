@@ -12,14 +12,16 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/nvim/init.vim](./asset/overlay/etc/skel/.config/nvim/init.vim) |
+
+
 
 
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [neovim](https://packages.ubuntu.com/noble/neovim) |
 
 

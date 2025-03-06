@@ -12,7 +12,7 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [/usr/share/glib-2.0/schemas/50_nautilus.gschema.override](./asset/overlay/usr/share/glib-2.0/schemas/50_nautilus.gschema.override) |
 
 
@@ -21,7 +21,7 @@
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [nautilus](https://packages.ubuntu.com/noble/nautilus) |
 
 

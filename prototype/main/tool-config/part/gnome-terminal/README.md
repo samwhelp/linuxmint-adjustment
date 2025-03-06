@@ -12,7 +12,7 @@
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [gnome-terminal](https://packages.ubuntu.com/noble/gnome-terminal) |
 
 

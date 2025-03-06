@@ -15,7 +15,7 @@
 ### Normal
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/katerc](./asset/overlay/etc/skel/.config/katerc) |
 | [~/.local/share/kate/anonymous.katesession](./asset/overlay/etc/skel/.local/share/kate/anonymous.katesession) |
 
@@ -23,7 +23,7 @@
 ### Tool Bar
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.local/share/kxmlgui5/kate/kateui.rc](./asset/overlay/etc/skel/.local/share/kxmlgui5/kate/kateui.rc) |
 
 
@@ -32,7 +32,7 @@
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [kate](https://packages.ubuntu.com/noble/kate) |
 
 

@@ -15,7 +15,7 @@
 ### Normal
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/krunnerrc](./asset/overlay/etc/skel/.config/krunnerrc) |
 
 
@@ -24,7 +24,7 @@
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [krunner](https://packages.ubuntu.com/noble/krunner) |
 
 

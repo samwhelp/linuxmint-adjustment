@@ -12,15 +12,8 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/viewnior/viewnior.conf](./asset/overlay/etc/skel/.config/viewnior/viewnior.conf) |
-
-
-## Debian Package
-
-| Debian Package |
-| --- |
-| [viewnior](https://packages.debian.org/stable/viewnior) |
 
 
 
@@ -28,7 +21,7 @@
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [viewnior](https://packages.ubuntu.com/noble/viewnior) |
 
 

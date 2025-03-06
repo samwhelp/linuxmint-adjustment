@@ -12,7 +12,7 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/rofi/config.rasi](./asset/overlay/etc/skel/.config/rofi/config.rasi) |
 
 
@@ -21,7 +21,7 @@
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [rofi](https://packages.ubuntu.com/noble/rofi) |
 
 

@@ -12,7 +12,7 @@
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [tilix](https://packages.ubuntu.com/noble/tilix) |
 
 

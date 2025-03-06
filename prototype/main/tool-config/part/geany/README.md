@@ -12,7 +12,7 @@
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/geany/geany.conf](./asset/overlay/etc/skel/.config/geany/geany.conf) |
 | [~/.config/geany/keybindings.conf](./asset/overlay/etc/skel/.config/geany/keybindings.conf) |
 | [~/.config/geany/ui_toolbar.xml](./asset/overlay/etc/skel/.config/geany/ui_toolbar.xml) |
@@ -24,7 +24,7 @@
 ## Ubuntu Package
 
 | Ubuntu Package |
-| --- |
+| -------------- |
 | [geany](https://packages.ubuntu.com/noble/geany) |
 
 
