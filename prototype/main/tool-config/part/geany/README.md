@@ -1,5 +1,12 @@
 
+
 # Geany
+
+* [Config File Path](#config-file-path)
+* [Ubuntu Package](#ubuntu-package)
+* [Usage](#usage)
+
+
 
 
 ## Config File Path
