@@ -2,13 +2,18 @@
 
 # Grub-Theme
 
+* [Config File Path](#config-file-path)
+* [Ubuntu Package](#ubuntu-package)
+* [Usage](#usage)
+
+
+
 
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [/etc/grub.d/05_debian_theme](./asset/overlay/etc/grub.d/05_debian_theme) |
-
 
 
 
@@ -17,7 +22,9 @@
 
 | Ubuntu Package |
 | --- |
+| [grub2](https://packages.ubuntu.com/noble/grub2) |
 | [grub-common](https://packages.ubuntu.com/noble/grub-common) |
+| [grub-pc](https://packages.ubuntu.com/noble/grub-pc) |
 
 
 
