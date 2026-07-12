@@ -24,7 +24,7 @@ function add_linuxmint_keyring () {
 function add_linuxmint_apt_sources () {
 
 	sudo mkdir -p "/etc/apt/sources.list.d"
-	cat << __EOF__ | sudo tee "/etc/apt/sources.list.d/linuxmint.sources" > /dev/null 2>&1
+cat << __EOF__ | sudo tee "/etc/apt/sources.list.d/linuxmint.sources" > /dev/null 2>&1
 Types: deb
 URIs: http://packages.linuxmint.com/
 Suites: alfa
