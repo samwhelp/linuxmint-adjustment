@@ -56,7 +56,6 @@ cinnamon:
 
 
 
-
 run
 
 ``` sh
@@ -74,6 +73,57 @@ cinnamon-desktop-environment:
         500 http://packages.linuxmint.com alfa/main amd64 Packages
      6.4.2 500
         500 http://archive.ubuntu.com/ubuntu resolute/universe amd64 Packages
+```
+
+
+
+
+## Install on Ubuntu 26.04
+
+> `/usr/bin/add-apt-repository` conflict `mintsource`
+
+run to remove `software-properties-common`
+
+``` sh
+sudo apt-get remove software-properties-common
+```
+
+run to install `mint-meta-cinnamon `
+
+``` sh
+sudo apt-get install mint-meta-cinnamon
+```
+
+run to set default terminal using `ptyxis`
+
+``` sh
+gsettings set org.cinnamon.desktop.default-applications.terminal exec 'ptyxis'
+```
+
+
+
+
+## Install Display Manager
+
+``` sh
+sudo apt-get install lightdm slick-greeter
+```
+
+
+
+
+## Switch Display Manager
+
+run
+
+``` sh
+sudo dpkg-reconfigure gdm3
+```
+
+or run
+
+``` sh
+sudo dpkg-reconfigure lightdm
 ```
 
 
